@@ -1,0 +1,60 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Roboto;
+}
+
+body > * {
+    padding: 100px 250px;
+}
+
+.contenedor {
+    text-align: center;
+}
+
+.tituloYLogo {
+    padding: 30px;
+}
+
+.logo {
+    height: 300px;
+}
+
+.titulo {
+    margin-top: 50px;
+}
+
+.docenteEstudianteYFecha {
+    padding: 30px;
+}
+
+.docente {
+    margin-bottom: 30px;
+}
+
+.alumnoNombre {
+    margin-bottom: 30px;
+    font-weight: normal;
+}
+
+.fechaDate {
+    margin-bottom: 40px;
+    font-weight: normal;
+}
+
+.tituloEstudiante {
+    font-weight: bold;
+    color: red;
+    margin-bottom: 50px;
+}
+
+.tituloDescEstudiante {
+    margin: 20px;
+}
+
+.descripcion {
+    padding: 30px;
+    margin: 20px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
